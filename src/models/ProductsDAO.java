@@ -11,6 +11,8 @@ public class ProductsDAO {
         products.add(new Product("Note", 120));
         products.add(new Product("Paper", 250));
         products.add(new Product("Sticker Paper", 800));
+        products.add(new Product("Red Ink Pen", 100));
+        products.add(new Product("Blue Ink Pen", 100));
         products.add(new Product("Eraser", 80));
     }
 
